@@ -17,7 +17,33 @@ const EventPlanner = () => {
                 <button className='get-started-button'>Get Started</button>
             </section>
             <section className='events_categories'>
-
+                <ul>
+                    <h2> Social Events:</h2>
+                    <li> Birthday Parties</li>
+                    <li>Annaversary Celebrations</li>
+                    <li>Wedding Receptions</li>
+                    <li>Baby Showers</li>
+                    <li>Graduation Parties</li>
+                    <li>Family Reunions</li>
+                </ul>
+                <ul>
+                    <h2> Entertainment Events:</h2>
+                    <li>Concerts</li>
+                    <li>Music festivals</li>
+                    <li>Film screenings</li>
+                    <li>Comedy shows</li>
+                    <li>Art exhibitions</li>
+                    <li>Cultural events</li>
+                </ul>
+                <ul>
+                    <h2>Community Events:</h2>
+                    <li>Fundraising events</li>
+                    <li>Charity galas</li>
+                    <li>Volunteer drives</li>
+                    <li>Neighborhood block parties</li>
+                    <li>Community festivals</li>
+                    <li>Cultural celebrations</li>
+                </ul>
             </section>
             <section className='features'>
 
